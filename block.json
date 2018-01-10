@@ -1,0 +1,7 @@
+{
+    "name": "InfluxDB: Store Metric and Event Data",
+    "description": "This block sends metric and event data to an InfluxDB database for storage and analysis.",
+    "license": "MIT",
+    "version": 1,
+    "dependencies": {}
+}
